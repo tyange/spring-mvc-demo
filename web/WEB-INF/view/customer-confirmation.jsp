@@ -13,5 +13,8 @@
 </head>
 <body>
     The customer is confirmed: ${customer.firstName} ${customer.lastName}
+    <br>
+    <br>
+    Fress passes: ${customer.freePasses}
 </body>
 </html>
